@@ -1,4 +1,4 @@
-# starter-bundle-react
+# react-base-bundle
 An initial package for ReactJS. This structure is a basis for projects with specific configurations and that cannot use the standard create-react-app starter package or that would need to use the eject to customize the webpack.
 
 ### Environment
